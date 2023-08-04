@@ -690,7 +690,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_abinav.png",
+    profile_image_path: "animated_abhinav.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, ML, AI, and Cloud.",
   },
