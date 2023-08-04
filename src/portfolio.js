@@ -428,7 +428,7 @@ const certifications = {
       color_code: "#00000099",
     },
     {
-      title: "Full Stack Web Development",
+      title: "Full Stack Web Development  djf",
       subtitle: "- Angela Yu, Udemy",
       logo_path: "fullstack-icon.png",
       certificate_link:
