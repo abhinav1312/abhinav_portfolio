@@ -414,8 +414,8 @@ const certifications = {
       subtitle: "- Amazon Web Services",
       logo_path: "aws-icon.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
+        "https://drive.google.com/file/d/1YuvghY9d11Los43yy_OgOGtkatneopY2/view?usp=sharing",
+      alt_name: "AWS",
       color_code: "#8C151599",
     },
     {
@@ -423,8 +423,8 @@ const certifications = {
       subtitle: "- Smart Internz",
       logo_path: "data-science-icon.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
+        "https://drive.google.com/file/d/1Z6gx6WWwKEfqE9p4CssrJ7xHHxnO9duB/view?usp=sharing",
+      alt_name: "Smart Internz ADS",
       color_code: "#00000099",
     },
     {
@@ -432,8 +432,8 @@ const certifications = {
       subtitle: "- Angela Yu, Udemy",
       logo_path: "fullstack-icon.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
+        "https://drive.google.com/file/d/1O2fssewVb1DisN32YJHiErZ2lLXfuvCy/view?usp=sharing",
+      alt_name: "Udemy",
       color_code: "#0C9D5899",
     },
     {
@@ -441,8 +441,8 @@ const certifications = {
       subtitle: "- Geeks For Geeks",
       logo_path: "react-icon.svg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
+        "https://drive.google.com/file/d/1DRgeYLni_B56X8PKAa6VPIRvuKcfDSRp/view?usp=sharing",
+      alt_name: "Geeks For Geeks",
       color_code: "#1F70C199",
     },
     {
@@ -450,8 +450,8 @@ const certifications = {
       subtitle: "- Coursera",
       logo_path: "html-icon.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
+        "https://drive.google.com/file/d/1F0TKeMFs5Yz8bRQc5o5qRFbg7Y90_Cl1/view?usp=sharing",
+      alt_name: "Coursera",
       color_code: "#D83B0199",
     },
     {
@@ -459,8 +459,8 @@ const certifications = {
       subtitle: "- Cisco",
       logo_path: "cisco-icon.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
+        "https://www.credly.com/badges/f7513c7f-3360-41f5-a287-786dd1b76896/linked_in_profile",
+      alt_name: "Cisco",
       color_code: "#D83B0199",
     },
     {
@@ -468,8 +468,8 @@ const certifications = {
       subtitle: "- Coursera",
       logo_path: "machine-learning-icon.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
+        "https://drive.google.com/file/d/1Ze21XOI-w4nvOB2iDgL7L3cLK18mGaym/view?usp=sharing",
+      alt_name: "IBM, Coursera",
       color_code: "#1F70C199",
     },
     {
@@ -477,8 +477,8 @@ const certifications = {
       subtitle: "- Google, Coursera",
       logo_path: "google-logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
+        "https://drive.google.com/file/d/1eov5eUaJLhxEWB9Jnww5yYKnnDn-k52l/view?usp=sharing",
+      alt_name: "Google, Coursera",
       color_code: "#0C9D5899",
     },
     {
@@ -486,8 +486,8 @@ const certifications = {
       subtitle: "- Google, Coursera",
       logo_path: "google-logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
+        "https://drive.google.com/file/d/1TwkG8mGLlXgzIrVBN4m8LuK1VCARD-kR/view?usp=sharing",
+      alt_name: "Google, Coursera",
       color_code: "#00000099",
     },
     {
@@ -495,8 +495,8 @@ const certifications = {
       subtitle: "- Google, Coursera",
       logo_path: "google-logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
+        "https://drive.google.com/file/d/1SKlHxWt06y79KTT0R1Yp7DAuXX2-mDaX/view?usp=sharing",
+      alt_name: "Google, Coursera",
       color_code: "#2A73CC",
     },
 
