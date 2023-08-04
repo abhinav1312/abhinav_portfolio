@@ -13,8 +13,8 @@ const ToggleButton = ({handleClick}) => {
                 onClick={handleClick}
             />
             <label className='dark_mode_label' for='darkmode-toggle'>
-                <Sun />
                 <Moon />
+                <Sun />
             </label>
         </div>
     );
